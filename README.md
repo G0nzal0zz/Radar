@@ -27,6 +27,6 @@ This project is completely done using C Modular and CSFML. This project, is a 2D
     [@g0nzal0zz](https://github.com/G0nzal0zz)
 
 
-## :computer: Langage
+## :computer: Language
 
     **Client:** C (modular), Makefile
