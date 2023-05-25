@@ -13,9 +13,6 @@ This project is completely done using C Modular and CSFML. This project, is a 2D
     OPTIONS
         -h print the usage and quit.
 
-    USER INTERACTIONS
-        ‘L’ key enable/disable hitboxes and areas.
-        ‘S’ key enable/disable sprites.
 ## 📖 Documentation
 
     [Aircrart (A)] [x (departure)] [y (departure)] [x (arrival)] [y (arrival)] [speed (pixel/s)] [delay (second)]
